@@ -43,12 +43,12 @@ export const workExperiences = [
     details: [
       "Create Test Scenario, Test Plan, and Test Case.",
       "Create System Flowchart.",
-      "Create Document for Customer SRS, UAT, API and Test Case."
-      "Manual Test on Web (Chrome, and Firefox)
-       - Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
-       - Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
+      "Create Document for Customer SRS, UAT, API and Test Case.",
+      "Manual Test on Web (Chrome, and Firefox)",
+       //- Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
+       //- Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
       "Test API.",
-      "Test Token in a case Blockchain project."
+      "Test Token in a case Blockchain project.",
       "Presentation UAT to Customer."
     ],
   }
