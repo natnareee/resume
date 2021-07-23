@@ -29,7 +29,7 @@ export const technologies = [
 
 export const educations = [
   {
-    head: "Bachelor of Business Administration",
+    head: "Bachelor of Business Administration(Business Information System)",
     details: "Maejo University, TH. 2014-2018 (GPA 2.89)",
   }
 ]
@@ -74,8 +74,8 @@ export const workExperiences = [
       "Create System Flowchart.",
       "Create Document for Customer SRS, UAT, API and Test Case.",
       "Manual Test on Web (Chrome, and Firefox).",
-       //- Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
-       //- Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
+       - Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
+       - Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
       "Test API.",
       "Test Token in a case Blockchain project.",
       "Presentation UAT to Customer."
