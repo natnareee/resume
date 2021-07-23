@@ -39,7 +39,7 @@ export const workExperiences = [
     position: "Software Tester & Business Analyst",
     company: "Dosetech Co.,Ltd.",
     url: "http://www.dosetech.co",
-    years: ["2021", "2021"],
+    years: ["2021", "Preset"],
     details: [
       "Create Test Scenario, Test Plan, and Test Case.",
       "Create Flowchart",
@@ -74,8 +74,8 @@ export const workExperiences = [
       "Create System Flowchart.",
       "Create Document for Customer SRS, UAT, API and Test Case.",
       "Manual Test on Web (Chrome, and Firefox).",
-       - Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
-       - Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
+       //- Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
+       //- Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
       "Test API.",
       "Test Token in a case Blockchain project.",
       "Presentation UAT to Customer."
