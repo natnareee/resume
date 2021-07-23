@@ -36,6 +36,35 @@ export const educations = [
 
 export const workExperiences = [
   {
+    position: "Software Tester & Business Analyst",
+    company: "Dosetech Co.,Ltd.",
+    url: "http://www.dosetech.co",
+    years: ["2021", "2021"],
+    details: [
+      "Create Test Scenario, Test Plan, and Test Case.",
+      "Create Flowchart",
+      "Manual Test on Mobile Application(iOS, Android).",
+      "Manual Test on Web (Chrome, Firefox, and Safari).",
+      "Test API.",
+      "Participated in new requirement gathering from a customer",
+      "Presentation UAT to Customer."
+    ]
+  },
+  {
+    position: "Software Tester",
+    company: "Nextzy Technology",
+    url: "https://nextzy.me",
+    years: ["2020", "2021"],
+    details: [
+      "Create Test Scenario, Test Plan, and Test Case.",
+      "Manual Test on Mobile Application(iOS, Android).",
+      "Manual Test on Web (Chrome, Firefox, and Safari).",
+      "Test API.",
+      "Participated in new requirement gathering from a customer with SA",
+      "Presentation UAT to Customer."
+    ]
+  },
+  {
     position: "QA Tester",
     company: "ENTER Corporation Co.,Ltd.",
     url: "https://entercorp.net",
@@ -44,7 +73,7 @@ export const workExperiences = [
       "Create Test Scenario, Test Plan, and Test Case.",
       "Create System Flowchart.",
       "Create Document for Customer SRS, UAT, API and Test Case.",
-      "Manual Test on Web (Chrome, and Firefox)",
+      "Manual Test on Web (Chrome, and Firefox).",
        //- Project: Trueblok, MEA Trading, Coin Asset, and DMS(โปรเจคเขื่อน)
        //- Automation Test in the case to retest all functions before sending to the customer by Selenium IDE and Robot Framework
       "Test API.",
